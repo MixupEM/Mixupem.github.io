@@ -22,12 +22,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Company Information
-company_name: Johns, Smith & Associates
-address_line: Via Ludovisi 39-45, Rome, 54267, Italy
+company_name: MIXUP MX CDMX
+address_line: Av Francisco I. Madero 51, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06090 Ciudad de México, CDMX
 telephone_number: 5625676895
 fax_number: 5551303950
-company_email: hello@LawOffice.org
+company_email: mixupmx@gmail.com
 google_map: https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3618.727010735933!2d91.837871!3d24.907291700000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1404919738144
+google_map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3163.8978708165305!2d-99.13690720038291!3d19.432709128368995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f9d0918d78f7%3A0x19cdb1454e395cbf!2sAv%20Francisco%20I.%20Madero%2051%2C%20Centro%20Hist%C3%B3rico%20de%20la%20Cdad.%20de%20M%C3%A9xico%2C%20Centro%2C%20Cuauht%C3%A9moc%2C%2006090%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1681781328976!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 # Social Link
 facebook_link: http://www.facebook.com

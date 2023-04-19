@@ -32,10 +32,10 @@ google_map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3163.897870816
 
 
 # Social Link
-facebook_link: http://www.facebook.com
-twitter_link: http://www.twitter.com
-linkedin_link: http://www.linkedin.com
-googleplus_link: http://plus.google.com
+facebook_link: https://www.facebook.com/MixupMusicStore
+twitter_link: https://twitter.com/MixupTeam
+instagram_link: https://www.instagram.com/mixupteam/
+youtube_link: https://www.youtube.com/user/mixupteam/featured
 
 # Build settings
 markdown: kramdown

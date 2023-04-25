@@ -4,6 +4,7 @@ Creo que es el disco más feliz de mi carrera", dijo Bad Bunny en una entrevista
 'Reggueton'
 'Bad!'interrupted Alice.
 'Bad Bunny."
+
 picture: Un Verano Sin ti (2).jpg
 
 label_default: "alice" 

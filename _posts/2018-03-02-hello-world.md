@@ -9,8 +9,8 @@ picture: Leyendaddy.jpg
 
 label_default: "alice" 
 label_primary: "story"
-label_success: 
+label_success: "blog"
 label_info: "personal"
 label_warning: "warning"
-label_danger: 
+label_danger: "danger"
 ---

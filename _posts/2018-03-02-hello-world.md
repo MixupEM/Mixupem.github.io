@@ -1,7 +1,7 @@
 ---
 title: "Leyendaddy $450"
 description: "El Disco De Retiro'
-'La liga mexicana de beisbol empieza en unos meses y los DIABLOS ROJOS DEL MÉXICO anunciaron su nueva coleccion y uniformes de jugadores para esta temporada y en Gorras M los tenemos a la venta .
+'Daddy Yankke The Big Boss anuncia su retiro de los esenarios con este nuevo álbum de estudio titulado LEYENDADDY  el cual es su ultimo trabajo en la música despues de 30 años de trayectoria musical.El álbum cuenta con 19 canciones y con colaboraciones de artistas urbanos puertorriqueños como Bad Bunny, Rauw Alejandro y Myke Towers, así como el panameño Sech y el cubano-estadounidense Pitbull, junto a las intérpretes Natti Natasha y Becky G.
 '!Campeón!"
 picture: Leyendaddy.jpg
 

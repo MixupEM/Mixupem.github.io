@@ -7,6 +7,7 @@ description: "'Este álbum es una idea que tenía hace dos años. Mucha gente pe
  con el grupo The Marías  y "Ojitos Lindos" con los colombianos Bomba Estéreo.'
  "Un Verano Sin Ti" es el quinto álbum en solitario de Bad Bunny, después de "X 100pre" (2018),
 "YHLQMDLG" (2020), "Las Que No Iban a Salir" (2020) y "El Último Tour Del Mundo" (2020)
+
 picture: Un Verano Sin ti (2).jpg
 
 label_default: "alice" 
